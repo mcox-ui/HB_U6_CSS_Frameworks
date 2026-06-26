@@ -1,0 +1,7 @@
+
+.display-1 {
+    color: blueviolet;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+}
