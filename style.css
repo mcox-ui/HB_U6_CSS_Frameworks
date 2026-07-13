@@ -5,3 +5,9 @@
     /* text-transform: lowercase; */
     text-transform: capitalize;
 }
+
+
+.bi-balloon-heart {
+    font-size: 180px;
+    color: tomato;
+}
